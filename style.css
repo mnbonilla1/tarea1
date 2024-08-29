@@ -1,0 +1,58 @@
+*
+{
+    margin: 0px;
+    border-radius: 10px;
+}
+.caja0
+{
+    background-color: rgb(87, 168, 209);
+    padding: 20px;
+    margin: 10px;    
+}
+.caja1
+{
+    background-color: lightblue;
+    padding: 20px;
+    margin: 20px;
+}
+.caja2
+{
+    background-color: lightcoral;
+    padding: 20px;
+}
+.caja3
+{
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+}
+.caja4
+{
+    background-color: lightgreen;
+    padding: 20px;
+    margin: 10px;
+}
+.caja5
+{
+    background-color: rgb(144, 156, 238);
+    padding: 20px;
+    margin: 10px;
+}
+.caja6
+{
+    background-color: rgb(238, 213, 144);
+    padding: 20px;
+    margin: 10px;
+}
+.caja7
+{
+    background-color: rgb(210, 144, 238);
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.caja8
+{
+    background-color: rgb(144, 238, 229);
+    padding: 20px;
+    margin: 10px;
+}
